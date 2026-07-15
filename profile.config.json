@@ -3,7 +3,7 @@
   "profile": {
     "name": "Afrizal Munthe",
     "username": "Niumination",
-    "headline": "Pranata Komputer — Diskominfo Aceh Tengah",
+    "headline": "Pranata Komputer, Diskominfo Aceh Tengah",
     "affiliation": "Diskominfo Aceh Tengah",
     "location": "Aceh Tengah, Indonesia",
     "status": "Building SPBE & AI Agent Ecosystem",
@@ -15,19 +15,19 @@
   "focus": [
     {
       "name": "SPBE & GovTech",
-      "description": "Sistem Pemerintahan Berbasis Elektronik — portal OPD, KMS, LKH, interoperabilitas layanan publik Aceh Tengah."
+      "description": "Sistem Pemerintahan Berbasis Elektronik — portal OPD, KMS, LKH, interoperabilitas layanan publik Aceh Tengah"
     },
     {
       "name": "AI Agent Ecosystem",
-      "description": "Multi-agent orchestration, Hermes Agent, JCode bridge, dan autonomous workflow untuk otomatisasi tugas pemerintahan."
+      "description": "Multi-agent orchestration, Hermes Agent, JCode bridge, dan autonomous workflow untuk otomatisasi tugas pemerintahan"
     },
     {
       "name": "Fullstack Web",
-      "description": "Next.js, React, Three.js, Prisma, TanStack Query — dashboard real-time, portal statis, dan aplikasi hybrid."
+      "description": "Next.js, React, Three.js, Prisma, TanStack Query — dashboard real-time, portal statis, dan aplikasi hybrid"
     },
     {
       "name": "Desktop & Mobile",
-      "description": "Tauri 2 (Rust/React), PyQt5 (ADB tooling), Kotlin/Jetpack Compose (AI File Organizer) — aplikasi native yang interoperable."
+      "description": "Tauri 2 (Rust/React), PyQt5 (ADB tooling), Kotlin/Jetpack Compose (AI File Organizer) — aplikasi native yang interoperable"
     }
   ],
   "projects": [
@@ -78,6 +78,22 @@
       "focus": "Delivery Service",
       "summary": "Express/React/PostgreSQL delivery service — T1-T4 critical bugs ALL FIXED. Web deployed, backend pending.",
       "heroLabel": "Delivery Platform"
+    },
+    {
+      "name": "niu-dash-fullstack",
+      "url": "https://github.com/Niumination/niu-dash-fullstack",
+      "homepage": "",
+      "focus": "Fullstack Dashboard",
+      "summary": "Next.js 16 fullstack dashboard — Prisma 7, Three.js, TanStack Query, next-auth.",
+      "heroLabel": "Fullstack App"
+    },
+    {
+      "name": "mac-web-dashboard",
+      "url": "https://github.com/Niumination/mac-web-dashboard",
+      "homepage": "",
+      "focus": "macOS Dashboard",
+      "summary": "macOS Dashboard v1.1.0 — 6 tabs, AI Workspace, Hermes+Ollama+Agent Discovery.",
+      "heroLabel": "System Dashboard"
     }
   ],
   "techStack": [
