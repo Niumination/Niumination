@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "assets": {
+    "dark": "terminal-animated.svg",
+    "light": "terminal-animated-light.svg"
+  },
+  "animations": {
+    "glow": "3s ease-in-out infinite",
+    "scanline": "4s linear infinite",
+    "typewriter": "sequenced fade-slide-up (0.4s each)",
+    "cursor": "1s step-end infinite"
+  },
+  "generated": "2026-07-15",
+  "note": "Generated hero assets. To regenerate with a portrait, use the GitHub-Profile-Console template."
+}

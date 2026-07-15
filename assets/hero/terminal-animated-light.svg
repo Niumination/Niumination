@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none">
+  <defs>
+    <style>
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes pulse { 0%,100%{opacity:.3} 50%{opacity:1} }
+      @keyframes glow {
+        0%,100%{filter:drop-shadow(0 0 4px rgba(56,189,248,.3))}
+        50%{filter:drop-shadow(0 0 12px rgba(56,189,248,.6))}
+      }
+      @keyframes scanline {
+        0%{transform:translateY(-100%)}
+        100%{transform:translateY(420px)}
+      }
+      @keyframes fadeSlideUp {
+        0%{opacity:0;transform:translateY(8px)}
+        100%{opacity:1;transform:translateY(0)}
+      }
+      @keyframes typeCursor { 0%,100%{opacity:1} 50%{opacity:0} }
+      .glow { animation:glow 3s ease-in-out infinite }
+      .cursor { animation:typeCursor 1s step-end infinite }
+      .scanline { animation:scanline 4s linear infinite }
+      .line-1 { animation:fadeSlideUp .4s .2s both }
+      .line-2 { animation:fadeSlideUp .4s .8s both }
+      .line-3 { animation:fadeSlideUp .4s 1.4s both }
+      .line-4 { animation:fadeSlideUp .4s 2.0s both }
+      .line-5 { animation:fadeSlideUp .4s 2.6s both }
+      .line-6 { animation:fadeSlideUp .4s 3.2s both }
+      .line-7 { animation:fadeSlideUp .4s 3.8s both }
+      .line-8 { animation:fadeSlideUp .4s 4.4s both }
+    </style>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="420" rx="12" fill="#f8fafc"/>
+
+  <!-- Scanline overlay -->
+  <rect class="scanline" width="800" height="6" fill="rgba(56,189,248,.03)"/>
+
+  <!-- Terminal window frame -->
+  <rect x="1" y="1" width="798" height="418" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="2" class="glow"/>
+
+  <!-- Title bar -->
+  <rect x="1" y="1" width="798" height="40" rx="12" fill="url(#barGrad)" opacity=".9"/>
+  <rect x="1" y="28" width="798" height="13" fill="url(#barGrad)" opacity=".9"/>
+
+  <!-- Window dots -->
+  <circle cx="20" cy="21" r="6" fill="#ef4444"/>
+  <circle cx="40" cy="21" r="6" fill="#eab308"/>
+  <circle cx="60" cy="21" r="6" fill="#22c55e"/>
+
+  <!-- Title -->
+  <text x="400" y="27" text-anchor="middle" font-family="monospace" font-size="14" fill="#64748b" letter-spacing="2">
+    gitiumination — terminal v1.0.0
+  </text>
+
+  <!-- ASCII Art Border Frame -->
+  <text x="30" y="75" font-family="monospace" font-size="11" fill="#cbd5e1" opacity=".6">
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                       ██████                                     ║
+║                      ████████                                    ║
+║                     ██████████                                   ║
+║                    ████████████                                  ║
+║                   ██████████████                                 ║
+║                  ████████████████                                ║
+║                 ██████████████████                               ║
+║                ████████████████████                              ║
+║               ██████████████████████                             ║
+║                ████████████████████                              ║
+║                 ██████████████████                               ║
+║                  ████████████████                                ║
+║                   ██████████████                                 ║
+║                    ████████████                                  ║
+║                     ██████████                                   ║
+║                      ████████                                    ║
+║                       ██████                                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+  </text>
+
+  <!-- Hexagon decoration -->
+  <text x="260" y="170" font-family="monospace" font-size="10" fill="#38bdf8" opacity=".15">
+    ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢
+  </text>
+
+  <!-- Terminal Content -->
+  <g font-family="monospace" font-size="13" fill="#1e293b">
+    <!-- Line 1: Boot -->
+    <text x="240" y="90" class="line-1" fill="#38bdf8">$</text>
+    <text x="255" y="90" class="line-1" fill="#64748b">systemctl boot --env=production</text>
+    <text x="560" y="90" class="line-1" fill="#22c55e">✓ OK</text>
+
+    <!-- Line 2: User -->
+    <text x="240" y="110" class="line-2" fill="#38bdf8">$</text>
+    <text x="255" y="110" class="line-2" fill="#64748b">whoami</text>
+    <text x="330" y="110" class="line-2" fill="#2dd4bf">Afrizal Munthe — Pranata Komputer</text>
+
+    <!-- Line 3: Location -->
+    <text x="240" y="130" class="line-3" fill="#38bdf8">$</text>
+    <text x="255" y="130" class="line-3" fill="#64748b">cat /etc/location</text>
+    <text x="400" y="130" class="line-3" fill="#2dd4bf">Diskominfo Aceh Tengah</text>
+
+    <!-- Line 4: Domain -->
+    <text x="240" y="150" class="line-4" fill="#38bdf8">$</text>
+    <text x="255" y="150" class="line-4" fill="#64748b">uname -d</text>
+    <text x="345" y="150" class="line-4" fill="#2dd4bf">SPBE · GovTech · AI Agents · Fullstack</text>
+
+    <!-- Line 5: Repos -->
+    <text x="240" y="180" class="line-5" fill="#38bdf8">$</text>
+    <text x="255" y="180" class="line-5" fill="#64748b">ls -la /ecosystem | wc -l</text>
+    <text x="430" y="180" class="line-5" fill="#f59e0b">40+ repositori aktif</text>
+
+    <!-- Line 6: Status -->
+    <text x="240" y="210" class="line-6" fill="#38bdf8">$</text>
+    <text x="255" y="210" class="line-6" fill="#64748b">./status.sh --current</text>
+    <text x="420" y="210" class="line-6" fill="#22c55e">🟢 Building SPBE &amp; AI Agent Ecosystem</text>
+
+    <!-- Line 7: Featured -->
+    <text x="240" y="245" class="line-7" fill="#38bdf8">$</text>
+    <text x="255" y="245" class="line-7" fill="#64748b">./featured.sh --list</text>
+    <text x="410" y="245" class="line-7" fill="#94a3b8">PemdiAcehTengah  niu-dash  Niu-LKH  x-downloader  TEDEO</text>
+
+    <!-- Line 8: Tech -->
+    <text x="240" y="280" class="line-8" fill="#38bdf8">$</text>
+    <text x="255" y="280" class="line-8" fill="#64748b">cat tech-stack.txt</text>
+    <text x="405" y="280" class="line-8" fill="#94a3b8">TS  JS  Python  Rust  Next.js  React  Tauri 2  Prisma</text>
+  </g>
+
+  <!-- Divider line -->
+  <line x1="40" y1="310" x2="760" y2="310" stroke="#cbd5e1" stroke-width="1"/>
+
+  <!-- Footer status bar -->
+  <rect x="2" y="396" width="796" height="22" rx="4" fill="#e2e8f0" opacity=".8"/>
+  <text x="20" y="412" font-family="monospace" font-size="11" fill="#64748b">GITIUMINATION v1.0.0</text>
+  <text x="300" y="412" font-family="monospace" font-size="11">
+    <tspan fill="#64748b">MODE:</tspan>
+    <tspan fill="#38bdf8"> INTERACTIVE</tspan>
+  </text>
+  <text x="500" y="412" font-family="monospace" font-size="11">
+    <tspan fill="#64748b">NET:</tspan>
+    <tspan fill="#22c55e"> ● ONLINE</tspan>
+  </text>
+  <text x="640" y="412" font-family="monospace" font-size="11">
+    <tspan fill="#64748b">AGENT:</tspan>
+    <tspan fill="#2dd4bf"> HERMES</tspan>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="255" y="285" width="8" height="14" fill="#38bdf8" class="cursor" opacity=".8" rx="1"/>
+</svg>

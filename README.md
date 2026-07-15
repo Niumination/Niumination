@@ -9,6 +9,11 @@
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/terminal-animated.svg">
+  <img src="assets/hero/terminal-animated-light.svg" alt="Gitiumination Terminal" width="100%">
+</picture>
+
 # 𝙶𝚒𝚝𝚒𝚞𝚖𝚒𝚗𝚊𝚝𝚒𝚘𝚗
 
 **Afrizal Munthe** — 𝙿𝚛𝚊𝚗𝚊𝚝𝚊 𝙺𝚘𝚖𝚙𝚞𝚝𝚎𝚛 @ 𝙳𝚒𝚜𝚔𝚘𝚖𝚒𝚗𝚏𝚘 𝙰𝚌𝚎𝚑 𝚃𝚎𝚗𝚐𝚊𝚑
@@ -73,13 +78,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [16 Jul 2026] Created branch `main` in [Niumination/Niumination](https://github.com/Niumination/Niumination)
-- [16 Jul 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
-- [15 Jul 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
-- [15 Jul 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
-- [15 Jul 2026] Starred [kholmogorov27/chevron](https://github.com/kholmogorov27/chevron)
-- [15 Jul 2026] Starred [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
-- [15 Jul 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---

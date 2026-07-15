@@ -57,6 +57,11 @@ const README = `<!--
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/terminal-animated.svg">
+  <img src="assets/hero/terminal-animated-light.svg" alt="Gitiumination Terminal" width="100%">
+</picture>
+
 # 𝙶𝚒𝚝𝚒𝚞𝚖𝚒𝚗𝚊𝚝𝚒𝚘𝚗
 
 **${p.name}** — 𝙿𝚛𝚊𝚗𝚊𝚝𝚊 𝙺𝚘𝚖𝚙𝚞𝚝𝚎𝚛 @ 𝙳𝚒𝚜𝚔𝚘𝚖𝚒𝚗𝚏𝚘 𝙰𝚌𝚎𝚑 𝚃𝚎𝚗𝚐𝚊𝚑
