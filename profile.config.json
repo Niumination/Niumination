@@ -1,0 +1,109 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Afrizal Munthe",
+    "username": "Niumination",
+    "headline": "Pranata Komputer — Diskominfo Aceh Tengah",
+    "affiliation": "Diskominfo Aceh Tengah",
+    "location": "Aceh Tengah, Indonesia",
+    "status": "Building SPBE & AI Agent Ecosystem",
+    "about": [
+      "Saya Afrizal Munthe (Niumination) — Pranata Komputer di Diskominfo Aceh Tengah. Fokus pada transformasi digital pemerintahan melalui Sistem Pemerintahan Berbasis Elektronik (SPBE) dan pengembangan ekosistem AI Agent untuk layanan publik.",
+      "Ekosistem saya mencakup 40+ repositori aktif — dari portal desa SSG hingga AI multi-agent orchestrator — semuanya dibangun dengan standar high-agency engineering: surgical patch, zero redundancy, dan measurable outcome."
+    ]
+  },
+  "focus": [
+    {
+      "name": "SPBE & GovTech",
+      "description": "Sistem Pemerintahan Berbasis Elektronik — portal OPD, KMS, LKH, interoperabilitas layanan publik Aceh Tengah."
+    },
+    {
+      "name": "AI Agent Ecosystem",
+      "description": "Multi-agent orchestration, Hermes Agent, JCode bridge, dan autonomous workflow untuk otomatisasi tugas pemerintahan."
+    },
+    {
+      "name": "Fullstack Web",
+      "description": "Next.js, React, Three.js, Prisma, TanStack Query — dashboard real-time, portal statis, dan aplikasi hybrid."
+    },
+    {
+      "name": "Desktop & Mobile",
+      "description": "Tauri 2 (Rust/React), PyQt5 (ADB tooling), Kotlin/Jetpack Compose (AI File Organizer) — aplikasi native yang interoperable."
+    }
+  ],
+  "projects": [
+    {
+      "name": "PemdiAcehTengah",
+      "url": "https://github.com/Niumination/PemdiAcehTengah",
+      "homepage": "https://pemdi-aceh-tengah.vercel.app",
+      "focus": "Portal Pemerintah Digital",
+      "summary": "Portal Pemerintah Digital Kabupaten Aceh Tengah — 52 OPD, 70 pages SSG, 6 Quick Win SPBE. Next.js 14 + React 18 + pure CSS.",
+      "heroLabel": "Flagship GovTech"
+    },
+    {
+      "name": "niu-dash",
+      "url": "https://github.com/Niumination/niu-dash",
+      "homepage": "https://niumination.github.io/niu-dash",
+      "focus": "Ecosystem Dashboard",
+      "summary": "Dark web glitch dashboard — 76+ proyek tracked. Niumination project inventory & DEV TRACKER. Vanilla JS, v2.16.8.",
+      "heroLabel": "Ecosystem Hub"
+    },
+    {
+      "name": "cc-acehtengah",
+      "url": "https://github.com/Niumination/cc-acehtengah",
+      "homepage": "",
+      "focus": "Command Center AI",
+      "summary": "Command Center AI untuk Ace.js 16, Prisma 7, Ollama, Qdrant RAG. SAPA→SPLP→CC pipeline.",
+      "heroLabel": "AI Command Center"
+    },
+    {
+      "name": "Niu-LKH",
+      "url": "https://github.com/Niumination/Niu-LKH",
+      "homepage": "https://niumination.github.io/Niu-LKH",
+      "focus": "Laporan Keuangan Hijau",
+      "summary": "LKH v3.1.1 — React 19, Vite 6, Tailwind v4, Supabase. 100% Done 🎉. GH Pages live.",
+      "heroLabel": "Green Finance"
+    },
+    {
+      "name": "x-downloader",
+      "url": "https://github.com/Niumination/x-downloader",
+      "homepage": "",
+      "focus": "Media Downloader Desktop",
+      "summary": "Tauri 2 (Rust) + React 18 + Three.js — yt-dlp GUI with batch, format preview, conversion, clipboard monitor. v2.0.0.",
+      "heroLabel": "Desktop App"
+    },
+    {
+      "name": "TEDEO",
+      "url": "https://github.com/Niumination/TEDEO",
+      "homepage": "https://tedeo-web.vercel.app",
+      "focus": "Delivery Service",
+      "summary": "Express/React/PostgreSQL delivery service — T1-T4 critical bugs ALL FIXED. Web deployed, backend pending.",
+      "heroLabel": "Delivery Platform"
+    }
+  ],
+  "techStack": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "Prisma",
+    "PostgreSQL",
+    "Supabase",
+    "Three.js",
+    "Tauri 2",
+    "Node.js",
+    "Kotlin",
+    "Qdrant",
+    "Ollama"
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 7
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Membangun ekosistem digital untuk Aceh Tengah — SPBE, AI Agents, dan open-source governance."
+}

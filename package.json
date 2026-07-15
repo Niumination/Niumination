@@ -1,0 +1,25 @@
+{
+  "name": "gitiumination",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gitiumination — GitHub Profile README untuk Niumination (Afrizal Munthe). Pranata Komputer, Diskominfo Aceh Tengah.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate:readme": "node scripts/generate-readme.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/validate.mjs",
+    "activity": "node scripts/update-activity.mjs",
+    "activity:dry-run": "node scripts/update-activity.mjs --dry-run"
+  },
+  "keywords": [
+    "github-profile",
+    "readme",
+    "niumination",
+    "aceh-tengah",
+    "spbe"
+  ],
+  "license": "MIT"
+}

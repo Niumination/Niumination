@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Niumination GitHub Profile Configuration",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["profile", "focus", "projects", "techStack", "activity", "appearance", "footer"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "username", "headline", "affiliation", "location", "status", "about"],
+      "properties": {
+        "name": { "type": "string", "minLength": 2, "maxLength": 40 },
+        "username": { "type": "string", "pattern": "^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$" },
+        "headline": { "type": "string", "minLength": 3, "maxLength": 48 },
+        "affiliation": { "type": "string", "minLength": 2, "maxLength": 40 },
+        "location": { "type": "string", "minLength": 2, "maxLength": 32 },
+        "status": { "type": "string", "minLength": 2, "maxLength": 42 },
+        "about": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 3,
+          "items": { "type": "string", "minLength": 20, "maxLength": 400 }
+        }
+      }
+    },
+    "focus": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "description"],
+        "properties": {
+          "name": { "type": "string", "minLength": 2, "maxLength": 28 },
+          "description": { "type": "string", "minLength": 10, "maxLength": 200 }
+        }
+      }
+    },
+    "projects": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "url", "focus", "summary", "heroLabel"],
+        "properties": {
+          "name": { "type": "string", "minLength": 2, "maxLength": 20 },
+          "url": { "type": "string", "format": "uri" },
+          "homepage": { "type": "string" },
+          "focus": { "type": "string", "minLength": 2, "maxLength": 44 },
+          "summary": { "type": "string", "minLength": 10, "maxLength": 240 },
+          "heroLabel": { "type": "string", "minLength": 2, "maxLength": 30 }
+        }
+      }
+    },
+    "techStack": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 24,
+      "items": { "type": "string", "minLength": 1, "maxLength": 30 }
+    },
+    "activity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["enabled", "limit"],
+      "properties": {
+        "enabled": { "type": "boolean" },
+        "limit": { "type": "integer", "minimum": 1, "maximum": 10 }
+      }
+    },
+    "appearance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["palette"],
+      "properties": {
+        "palette": { "enum": ["ocean", "signal", "solar"] }
+      }
+    },
+    "footer": { "type": "string", "minLength": 4, "maxLength": 140 }
+  }
+}
