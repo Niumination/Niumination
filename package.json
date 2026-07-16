@@ -1,8 +1,8 @@
 {
-  "name": "gitiumination",
+  "name": "niumination-profile",
   "version": "1.0.0",
   "private": true,
-  "description": "Gitiumination — GitHub Profile README untuk Niumination (Afrizal Munthe). Pranata Komputer, Diskominfo Aceh Tengah.",
+  "description": "Niumination — GitHub Profile README untuk Afrizal Munthe. Pranata Komputer, Diskominfo Aceh Tengah.",
   "type": "module",
   "engines": {
     "node": ">=20"

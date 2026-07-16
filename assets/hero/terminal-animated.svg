@@ -59,7 +59,7 @@
 
   <!-- Title -->
   <text x="400" y="24" text-anchor="middle" font-family="monospace" font-size="13" fill="#94a3b8" letter-spacing="2">
-    gitiumination — terminal v1.0.0
+    niumination — terminal v1.0.0
   </text>
 
   <!-- Terminal Content -->
@@ -116,7 +116,7 @@
 
   <!-- Status bar -->
   <rect x="2" y="356" width="796" height="20" rx="4" fill="#1e293b" opacity=".8"/>
-  <text x="16" y="370" font-family="monospace" font-size="11" fill="#64748b">GITIUMINATION v1.0.0</text>
+  <text x="16" y="370" font-family="monospace" font-size="11" fill="#64748b">NIUMINATION v1.0.0</text>
   <text x="280" y="370" font-family="monospace" font-size="11">
     <tspan fill="#64748b">MODE:</tspan>
     <tspan fill="#38bdf8"> INTERACTIVE</tspan>

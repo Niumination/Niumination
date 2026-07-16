@@ -1,6 +1,6 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
-║                    GITIUMINATION — v1.0.0                       ║
+║                    NIUMINATION — v1.0.0                       ║
 ║  Afrizal Munthe (Niumination) | Pranata Komputer, Diskominfo   ║
 ║  Aceh Tengah                                                    ║
 ║                                                                 ║
@@ -11,10 +11,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero/terminal-animated.svg">
-  <img src="assets/hero/terminal-animated-light.svg" alt="Gitiumination Terminal" width="100%">
+  <img src="assets/hero/terminal-animated-light.svg" alt="Niumination Terminal" width="100%">
 </picture>
 
-# 𝙶𝚒𝚝𝚒𝚞𝚖𝚒𝚗𝚊𝚝𝚒𝚘𝚗
+# 𝙽𝚒𝚞𝚖𝚒𝚗𝚊𝚝𝚒𝚘𝚗
 
 **Afrizal Munthe** — 𝙿𝚛𝚊𝚗𝚊𝚝𝚊 𝙺𝚘𝚖𝚙𝚞𝚝𝚎𝚛 @ 𝙳𝚒𝚜𝚔𝚘𝚖𝚒𝚗𝚏𝚘 𝙰𝚌𝚎𝚑 𝚃𝚎𝚗𝚐𝚊𝚑
 

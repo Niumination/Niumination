@@ -1,6 +1,6 @@
-# Gitiumination — DOX
+# Niumination Profile — DOX
 
-**Lokasi:** `~/Desktop/Niumination/Niumination/`
+**Lokasi:** `~/Desktop/Niumination/Production/Niumination/`
 **Repo:** `github.com/Niumination/Niumination`
 **Role:** GitHub Profile README — gerbang utama ekosistem Niumination
 **DOX Version:** 1.0
