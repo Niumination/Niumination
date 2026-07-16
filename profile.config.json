@@ -48,12 +48,12 @@
       "heroLabel": "Ecosystem Hub"
     },
     {
-      "name": "cc-acehtengah",
-      "url": "https://github.com/Niumination/cc-acehtengah",
+      "name": "Flame-ADE",
+      "url": "https://github.com/Niumination/Flame-ADE",
       "homepage": "",
-      "focus": "Command Center AI",
-      "summary": "Command Center AI untuk Ace.js 16, Prisma 7, Ollama, Qdrant RAG. SAPA→SPLP→CC pipeline.",
-      "heroLabel": "AI Command Center"
+      "focus": "AI Desktop Environment",
+      "summary": "AI-native terminal emulator (ADE) — Tauri 2 + Rust + React 19. macOS Tahoe 26.5, BYOK AI, no telemetry.",
+      "heroLabel": "AI Desktop"
     },
     {
       "name": "Niu-LKH",
@@ -64,20 +64,20 @@
       "heroLabel": "Green Finance"
     },
     {
-      "name": "x-downloader",
-      "url": "https://github.com/Niumination/x-downloader",
+      "name": "didong-code",
+      "url": "https://github.com/Niumination/didong-code",
       "homepage": "",
-      "focus": "Media Downloader Desktop",
-      "summary": "Tauri 2 (Rust) + React 18 + Three.js — yt-dlp GUI with batch, format preview, conversion, clipboard monitor. v2.0.0.",
-      "heroLabel": "Desktop App"
+      "focus": "Agentic Dev Environment",
+      "summary": "Didong-Code — Agentic Development Environment dengan jiwa tradisi Gayo Aceh. Electron + React + TypeScript.",
+      "heroLabel": "Gayo ADE"
     },
     {
-      "name": "TEDEO",
-      "url": "https://github.com/Niumination/TEDEO",
-      "homepage": "https://tedeo-web.vercel.app",
-      "focus": "Delivery Service",
-      "summary": "Express/React/PostgreSQL delivery service — T1-T4 critical bugs ALL FIXED. Web deployed, backend pending.",
-      "heroLabel": "Delivery Platform"
+      "name": "kune-ya.com",
+      "url": "https://github.com/Niumination/kune-ya.com",
+      "homepage": "https://kune-ya.com",
+      "focus": "AI Chat RAG",
+      "summary": "AI Chat dengan Retrieval-Augmented Generation. Deployed di Vercel. React + TypeScript.",
+      "heroLabel": "AI Chat"
     },
     {
       "name": "niu-dash-fullstack",

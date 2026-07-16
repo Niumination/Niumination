@@ -47,10 +47,10 @@ Ekosistem saya mencakup **40+ repositori aktif** — dari portal desa SSG hingga
 |--------|-------|-------|--------|
 | [**PemdiAcehTengah**](https://github.com/Niumination/PemdiAcehTengah) | Portal Pemerintah Digital — 52 OPD, 70 pages SSG | Next.js 14, React 18, pure CSS | 🟢 [Vercel](https://pemdi-aceh-tengah.vercel.app) |
 | [**niu-dash**](https://github.com/Niumination/niu-dash) | Ecosystem dashboard — 76+ proyek tracked, v2.16.8 | Vanilla JS, HTML/CSS | 🟢 [GH Pages](https://niumination.github.io/niu-dash) |
-| [**cc-acehtengah**](https://github.com/Niumination/cc-acehtengah) | Command Center AI — SAPA→SPLP→CC pipeline | Next.js 16, Prisma 7, Ollama, Qdrant | ⚪ Local |
+| [**Flame-ADE**](https://github.com/Niumination/Flame-ADE) | AI-native terminal emulator — Tauri 2 + Rust + React 19 | Tauri 2, Rust, React 19 | 🟢 GitHub |
 | [**Niu-LKH**](https://github.com/Niumination/Niu-LKH) | Laporan Keuangan Hijau v3.1.1 — 100% Done 🎉 | React 19, Vite 6, Tailwind v4, Supabase | 🟢 [GH Pages](https://niumination.github.io/Niu-LKH) |
-| [**x-downloader**](https://github.com/Niumination/x-downloader) | Media downloader desktop — Tauri 2, yt-dlp GUI v2.0.0 | Rust, React 18, Three.js | 🟢 GitHub |
-| [**TEDEO**](https://github.com/Niumination/TEDEO) | Delivery Service — T1-T4 critical bugs ALL FIXED | Express, React, PostgreSQL | 🟢 [Web](https://tedeo-web.vercel.app) |
+| [**didong-code**](https://github.com/Niumination/didong-code) | Agentic Dev Environment — Electron + React + TypeScript | Electron, React 18, TypeScript | 🟢 GitHub |
+| [**kune-ya.com**](https://github.com/Niumination/kune-ya.com) | AI Chat dengan Retrieval-Augmented Generation | React, TypeScript, Vercel | 🟢 [Vercel](https://kune-ya.com) |
 | [**niu-dash-fullstack**](https://github.com/Niumination/niu-dash-fullstack) | Next.js 16 fullstack dashboard — Prisma, Three.js | Next.js 16, React 19, Prisma 7 | ⚪ Local |
 | [**mac-web-dashboard**](https://github.com/Niumination/mac-web-dashboard) | macOS Dashboard v1.1.0 — +AI Workspace | Next.js 14, React 18, Tailwind | 🟢 GitHub |
 
@@ -78,13 +78,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [16 Jul 2026] Pushed 0 commit to [Niumination/niu-dash](https://github.com/Niumination/niu-dash) — 
-- [16 Jul 2026] Pushed 0 commit to [Niumination/mac-web-dashboard](https://github.com/Niumination/mac-web-dashboard) — 
-- [16 Jul 2026] Pushed 0 commit to [Niumination/TEDEO-Kanban](https://github.com/Niumination/TEDEO-Kanban) — 
-- [16 Jul 2026] Pushed 0 commit to [Niumination/Niumination](https://github.com/Niumination/Niumination) — 
-- [16 Jul 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
-- [16 Jul 2026] Pushed 0 commit to [Niumination/Niumination](https://github.com/Niumination/Niumination) — 
-- [16 Jul 2026] Created branch `main` in [Niumination/Niumination](https://github.com/Niumination/Niumination)
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
@@ -109,18 +103,17 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 | Repo | Status | Deploy |
 |------|--------|--------|
 | PemdiAcehTengah | 🟢 Active | [Vercel](https://pemdi-aceh-tengah.vercel.app) |
-| cc-acehtengah | 🔜 Fase 1 | Local |
 | Niu-LKH | ✅ 100% | [GH Pages](https://niumination.github.io/Niu-LKH) |
 | AuditTI-AT | ✅ Live | [GH Pages](https://niumination.github.io/AuditTI-AT) |
 | kms-spbe | ✅ Live | Vercel |
+| Rekapitulasi-SPBE | 🟢 Active | GitHub |
 
 ### 🤖 AI & Coding Agent
 | Repo | Status | Stack |
 |------|--------|-------|
 | Flame-ADE | ✅ v1.3.0 | Tauri 2, Rust, React |
-| Niu-Flow | 🟢 Active | Python, JCode bridge |
-| orchestrator | ✅ Pushed | Python multi-agent |
 | didong-code | 🆕 New | Electron, React 18 |
+| flame-code | 🟢 Active | TypeScript |
 
 ### 🌐 Web Apps & Tools
 | Repo | Status | Stack |
@@ -128,8 +121,8 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 | niu-dash | 🟢 v2.16.8 | Vanilla JS |
 | niu-dash-fullstack | ✅ Active | Next.js 16, Prisma 7 |
 | mac-web-dashboard | ✅ v1.1.0 | Next.js 14 |
-| x-downloader | ✅ v2.0.0 | Tauri 2, Rust, React |
-| TEDEO | ✅ T1-T4 Fixed | Express, React, PostgreSQL |
-| niumination-workspace | ✅ Active | Next.js 16, Three.js |
+| kune-ya.com | 🟢 Live | React, TypeScript, Vercel |
+| ai-first-os | ✅ v1.0.0 | Arch Linux, Hermes Agent |
+| arch-web-dashboard | ✅ v1.0.0 | Next.js 14 |
 
 </details>

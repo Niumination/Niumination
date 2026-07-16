@@ -24,10 +24,10 @@ const focusRows = config.focus.map(f =>
 const projectMap = [
   ['PemdiAcehTengah',    'Portal Pemerintah Digital — 52 OPD, 70 pages SSG', 'Next.js 14, React 18, pure CSS', '🟢 [Vercel](https://pemdi-aceh-tengah.vercel.app)'],
   ['niu-dash',           'Ecosystem dashboard — 76+ proyek tracked, v2.16.8', 'Vanilla JS, HTML/CSS', '🟢 [GH Pages](https://niumination.github.io/niu-dash)'],
-  ['cc-acehtengah',      'Command Center AI — SAPA→SPLP→CC pipeline', 'Next.js 16, Prisma 7, Ollama, Qdrant', '⚪ Local'],
+  ['Flame-ADE',          'AI-native terminal emulator — Tauri 2 + Rust + React 19', 'Tauri 2, Rust, React 19', '🟢 GitHub'],
   ['Niu-LKH',            'Laporan Keuangan Hijau v3.1.1 — 100% Done 🎉', 'React 19, Vite 6, Tailwind v4, Supabase', '🟢 [GH Pages](https://niumination.github.io/Niu-LKH)'],
-  ['x-downloader',       'Media downloader desktop — Tauri 2, yt-dlp GUI v2.0.0', 'Rust, React 18, Three.js', '🟢 GitHub'],
-  ['TEDEO',              'Delivery Service — T1-T4 critical bugs ALL FIXED', 'Express, React, PostgreSQL', '🟢 [Web](https://tedeo-web.vercel.app)'],
+  ['didong-code',        'Agentic Dev Environment — Electron + React + TypeScript', 'Electron, React 18, TypeScript', '🟢 GitHub'],
+  ['kune-ya.com',        'AI Chat dengan Retrieval-Augmented Generation', 'React, TypeScript, Vercel', '🟢 [Vercel](https://kune-ya.com)'],
   ['niu-dash-fullstack', 'Next.js 16 fullstack dashboard — Prisma, Three.js', 'Next.js 16, React 19, Prisma 7', '⚪ Local'],
   ['mac-web-dashboard',  'macOS Dashboard v1.1.0 — +AI Workspace', 'Next.js 14, React 18, Tailwind', '🟢 GitHub'],
 ];
