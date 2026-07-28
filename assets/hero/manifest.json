@@ -10,6 +10,11 @@
     "typewriter": "sequenced fade-slide-up (0.4s each)",
     "cursor": "1s step-end infinite"
   },
-  "generated": "2026-07-15",
-  "note": "Generated hero assets. To regenerate with a portrait, use the GitHub-Profile-Console template."
+  "generated": "2026-07-29",
+  "note": "Generated hero assets. To regenerate with a portrait, use the GitHub-Profile-Console template.",
+  "ecosystem": {
+    "dark": "ecosystem-animated.svg",
+    "light": "ecosystem-animated-light.svg",
+    "description": "Animated ecosystem-config showing Niumination maturity pipeline v4.0"
+  }
 }

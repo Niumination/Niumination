@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <defs>
+    <style>
+      @keyframes glow {
+        0%,100%{filter:drop-shadow(0 0 4px rgba(56,189,248,.3))}
+        50%{filter:drop-shadow(0 0 12px rgba(56,189,248,.6))}
+      }
+      @keyframes typeCursor { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes fadeSlideUp {
+        0%{opacity:0;transform:translateY(6px)}
+        100%{opacity:1;transform:translateY(0)}
+      }
+      @keyframes scanline {
+        0%{transform:translateY(-100%)}
+        100%{transform:translateY(400px)}
+      }
+      @keyframes barPulse {
+        0%,100%{opacity:.6}
+        50%{opacity:1}
+      }
+      .glow { animation:glow 3s ease-in-out infinite }
+      .cursor { animation:typeCursor 1s step-end infinite }
+      .scanline { animation:scanline 4s linear infinite }
+      .l1 { animation:fadeSlideUp .35s .1s both }
+      .l2 { animation:fadeSlideUp .35s .5s both }
+      .l3 { animation:fadeSlideUp .35s .9s both }
+      .l4 { animation:fadeSlideUp .35s 1.3s both }
+      .l5 { animation:fadeSlideUp .35s 1.7s both }
+      .l6 { animation:fadeSlideUp .35s 2.1s both }
+      .l7 { animation:fadeSlideUp .35s 2.5s both }
+      .l8 { animation:fadeSlideUp .35s 2.9s both }
+      .l9 { animation:fadeSlideUp .35s 3.3s both }
+      .l10 { animation:fadeSlideUp .35s 3.7s both }
+      .bar { animation:barPulse 2s ease-in-out infinite }
+    </style>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" rx="12" fill="#0b1120"/>
+
+  <!-- Scanline -->
+  <rect class="scanline" width="800" height="4" fill="rgba(56,189,248,.04)"/>
+
+  <!-- Frame -->
+  <rect x="1" y="1" width="798" height="398" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="2" class="glow"/>
+
+  <!-- Title bar -->
+  <rect x="1" y="1" width="798" height="36" rx="12" fill="url(#barGrad)" opacity=".9"/>
+  <rect x="1" y="26" width="798" height="11" fill="url(#barGrad)" opacity=".9"/>
+
+  <!-- Window dots -->
+  <circle cx="20" cy="19" r="5" fill="#ef4444"/>
+  <circle cx="38" cy="19" r="5" fill="#eab308"/>
+  <circle cx="56" cy="19" r="5" fill="#22c55e"/>
+
+  <!-- Title -->
+  <text x="400" y="24" text-anchor="middle" font-family="monospace" font-size="13" fill="#94a3b8" letter-spacing="2">
+    ecosystem-config — niumination v4.0
+  </text>
+
+  <!-- Terminal Content -->
+  <g font-family="monospace" font-size="13" fill="#e2e8f0">
+
+    <!-- LINE 1 - Pipeline header -->
+    <text x="24" y="65" class="l1" fill="#38bdf8">$</text>
+    <text x="40" y="65" class="l1" fill="#64748b">cat ecosystem-pipeline.yaml</text>
+    <text x="310" y="65" class="l1" fill="#94a3b8"># Maturity Pipeline v4.0</text>
+
+    <!-- LINE 2 - Pipeline flow -->
+    <text x="40" y="92" class="l2" fill="#64748b">pipeline:</text>
+
+    <text x="60" y="115" class="l3" fill="#64748b">-</text>
+    <text x="76" y="115" class="l3" fill="#facc15">sandbox</text>
+    <text x="152" y="115" class="l3" fill="#64748b">:</text>
+    <text x="168" y="115" class="l3" fill="#94a3b8">💤 7 projects — dormant / playground</text>
+
+    <text x="60" y="138" class="l4" fill="#64748b">-</text>
+    <text x="76" y="138" class="l4" fill="#fb923c">labs</text>
+    <text x="152" y="138" class="l4" fill="#64748b">:</text>
+    <text x="168" y="138" class="l4" fill="#94a3b8">🔬 2 projects — active research</text>
+
+    <text x="60" y="161" class="l5" fill="#64748b">-</text>
+    <text x="76" y="161" class="l5" fill="#22c55e">services</text>
+    <text x="168" y="161" class="l5" fill="#64748b">:</text>
+    <text x="184" y="161" class="l5" fill="#94a3b8">🔧 5 projects — backend &amp; API</text>
+
+    <text x="60" y="184" class="l6" fill="#64748b">-</text>
+    <text x="76" y="184" class="l6" fill="#22c55e">sites</text>
+    <text x="152" y="184" class="l6" fill="#64748b">:</text>
+    <text x="168" y="184" class="l6" fill="#94a3b8">🌐 5 projects — frontend apps</text>
+
+    <text x="60" y="207" class="l7" fill="#64748b">-</text>
+    <text x="76" y="207" class="l7" fill="#22c55e">desktop</text>
+    <text x="168" y="207" class="l7" fill="#64748b">:</text>
+    <text x="184" y="207" class="l7" fill="#94a3b8">🖥️ 4 projects — native apps</text>
+
+    <text x="60" y="230" class="l8" fill="#64748b">-</text>
+    <text x="76" y="230" class="l8" fill="#22c55e">agents</text>
+    <text x="168" y="230" class="l8" fill="#64748b">:</text>
+    <text x="184" y="230" class="l8" fill="#94a3b8">🤖 4 projects — AI &amp; automation</text>
+
+    <text x="60" y="253" class="l9" fill="#64748b">-</text>
+    <text x="76" y="253" class="l9" fill="#38bdf8">apps</text>
+    <text x="152" y="253" class="l9" fill="#64748b">:</text>
+    <text x="168" y="253" class="l9" fill="#94a3b8">🏭 12 projects — production deployed</text>
+
+    <text x="60" y="276" class="l10" fill="#64748b">-</text>
+    <text x="76" y="276" class="l10" fill="#a78bfa">archive</text>
+    <text x="168" y="276" class="l10" fill="#64748b">:</text>
+    <text x="184" y="276" class="l10" fill="#94a3b8">📦 cold storage</text>
+  </g>
+
+  <!-- Pipeline Progress Bar -->
+  <g transform="translate(24, 305)">
+    <rect width="752" height="16" rx="8" fill="#1e293b"/>
+    <rect width="752" height="16" rx="8" fill="none" stroke="#334155" stroke-width="1"/>
+
+    <!-- Segments -->
+    <rect x="0" y="0" width="80" height="16" rx="8" fill="#facc15" opacity=".3"/>
+    <rect x="0" y="0" width="80" height="16" rx="8" fill="none" stroke="#facc15" stroke-width="1"/>
+
+    <rect x="85" y="0" width="80" height="16" rx="3" fill="#fb923c" opacity=".3"/>
+    <rect x="85" y="0" width="80" height="16" rx="3" fill="none" stroke="#fb923c" stroke-width="1"/>
+
+    <rect x="170" y="0" width="140" height="16" rx="3" fill="#22c55e" opacity=".3"/>
+    <rect x="170" y="0" width="140" height="16" rx="3" fill="none" stroke="#22c55e" stroke-width="1"/>
+
+    <rect x="315" y="0" width="100" height="16" rx="3" fill="#22c55e" opacity=".4"/>
+    <rect x="315" y="0" width="100" height="16" rx="3" fill="none" stroke="#22c55e" stroke-width="1"/>
+
+    <rect x="420" y="0" width="90" height="16" rx="3" fill="#22c55e" opacity=".4"/>
+    <rect x="420" y="0" width="90" height="16" rx="3" fill="none" stroke="#22c55e" stroke-width="1"/>
+
+    <rect x="515" y="0" width="80" height="16" rx="3" fill="#22c55e" opacity=".4"/>
+    <rect x="515" y="0" width="80" height="16" rx="3" fill="none" stroke="#22c55e" stroke-width="1"/>
+
+    <rect x="600" y="0" width="100" height="16" rx="3" fill="#38bdf8" opacity=".5"/>
+    <rect x="600" y="0" width="100" height="16" rx="3" fill="none" stroke="#38bdf8" stroke-width="1" class="bar"/>
+
+    <rect x="705" y="0" width="47" height="16" rx="0 8 8 0" fill="#a78bfa" opacity=".2"/>
+    <rect x="705" y="0" width="47" height="16" rx="0 8 8 0" fill="none" stroke="#a78bfa" stroke-width="1"/>
+
+    <!-- Labels -->
+    <text x="40" y="12" text-anchor="middle" font-family="monospace" font-size="9" fill="#0f172a">💤</text>
+    <text x="125" y="12" text-anchor="middle" font-family="monospace" font-size="9" fill="#0f172a">🔬</text>
+    <text x="240" y="12" text-anchor="middle" font-family="monospace" font-size="9" fill="#0f172a">🔧🌐🖥️🤖</text>
+    <text x="650" y="12" text-anchor="middle" font-family="monospace" font-size="9" fill="#0f172a">🏭</text>
+    <text x="728" y="12" text-anchor="middle" font-family="monospace" font-size="9" fill="#0f172a">📦</text>
+  </g>
+
+  <!-- Status bar -->
+  <rect x="2" y="376" width="796" height="20" rx="4" fill="#1e293b" opacity=".8"/>
+  <text x="16" y="390" font-family="monospace" font-size="11" fill="#64748b">ECOSYSTEM-CONFIG v4.0</text>
+  <text x="300" y="390" font-family="monospace" font-size="11">
+    <tspan fill="#64748b">PROJECTS:</tspan>
+    <tspan fill="#38bdf8"> 40+</tspan>
+  </text>
+  <text x="460" y="390" font-family="monospace" font-size="11">
+    <tspan fill="#64748b">SIZE:</tspan>
+    <tspan fill="#22c55e"> ~18 GB</tspan>
+  </text>
+  <text x="600" y="390" font-family="monospace" font-size="11">
+    <tspan fill="#64748b">MODE:</tspan>
+    <tspan fill="#2dd4bf"> INTERACTIVE</tspan>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="40" y="283" width="8" height="13" fill="#38bdf8" class="cursor" opacity=".8" rx="1"/>
+</svg>
