@@ -41,6 +41,30 @@ Ekosistem saya mencakup **40+ repositori aktif** — dari portal desa SSG hingga
 
 ---
 
+## 🗺️ Niumination Ecosystem v4.0
+
+Visualisasikan seluruh ekosistem di dashboard interaktif:
+
+[![Ecosystem Config](https://img.shields.io/badge/Niumination-Ecosystem_v4.0-4A90D9?style=for-the-badge&logo=github)](https://niumination.github.io/ecosystem-config)
+
+```
+🏭 apps/       12     ← Production deployed
+🔧 services/    5      ← Backend & API
+🌐 sites/       5      ← Frontend apps
+🖥️ desktop/     4      ← Native apps
+🤖 agents/      4      ← AI agents & automation
+🔬 labs/        2      ← Active research
+🧪 sandbox/     7      ← Dormant experiments
+📚 docs/       unified ← Dokumen terpadu
+📦 archive/     2      ← Cold storage
+```
+
+### Maturity Pipeline
+
+`🧪 Sandbox 💤 → 🔬 Labs 🔬 → 🔧/🌐/🖥️/🤖 Active → 🏭 Production → 📦 Archive`
+
+---
+
 ## Featured Projects
 
 | Proyek | Fokus | Stack | Deploy |
@@ -102,33 +126,58 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 </details>
 
 <details>
-<summary><b>📁 Ekosistem Lengkap (40+ repositori)</b></summary>
+<summary><b>📁 Ekosistem Lengkap — v4.0 (40+ repositori)</b></summary>
 <br>
 
-### 🏛️ Pemerintahan & SPBE
+Lihat dashboard interaktif: [niumination.github.io/ecosystem-config](https://niumination.github.io/ecosystem-config)
+
+### 🏭 apps/ — Production (12)
 | Repo | Status | Deploy |
 |------|--------|--------|
-| PemdiAcehTengah | 🟢 Active | [Vercel](https://pemdi-aceh-tengah.vercel.app) |
+| PemdiAcehTengah | 🟢 Live | [Vercel](https://pemdi-aceh-tengah.vercel.app) |
 | Niu-LKH | ✅ 100% | [GH Pages](https://niumination.github.io/Niu-LKH) |
-| AuditTI-AT | ✅ Live | [GH Pages](https://niumination.github.io/AuditTI-AT) |
-| kms-spbe | ✅ Live | Vercel |
-| Rekapitulasi-SPBE | 🟢 Active | GitHub |
+| niu-dash | 🟢 v2.16.8 | [GH Pages](https://niumination.github.io/niu-dash) |
+| kune-ya.com | 🟢 Live | [Vercel](https://kune-ya.com) |
+| niu-vermilion | 🟢 Live | Vercel |
+| mac-web-dashboard | ✅ v1.0.0 | GitHub |
+| arch-web-dashboard | ✅ v1.0.0 | GitHub |
+| cc-switch | 🟢 Active | GitHub |
+| ai-file-organizer-android | 🟢 Live | Device |
+| JHermUSB-portable | ✅ Done | GitHub |
+| AI-First-OS | ⚪ Minor | GitHub |
 
-### 🤖 AI & Coding Agent
+### 🔧 services/ — Backend & API (5)
 | Repo | Status | Stack |
 |------|--------|-------|
-| Flame-ADE | ✅ v1.3.0 | Tauri 2, Rust, React |
-| didong-code | 🆕 New | Electron, React 18 |
-| flame-code | 🟢 Active | TypeScript |
+| cc-acehtengah | 🟢 Active | Next.js/Prisma/GIS |
+| niu-mission-control | 🟢 Active | FastAPI/WebSocket |
+| niu-cast | 🟢 v3.6.0 | PyQt5/ADB |
+| niu-flow | 🟢 Remote | Python |
+| latticesend | 🟢 Active | Rust/Flutter |
 
-### 🌐 Web Apps & Tools
+### 🌐 sites/ — Frontend (5)
 | Repo | Status | Stack |
 |------|--------|-------|
-| niu-dash | 🟢 v2.16.8 | Vanilla JS |
-| niu-dash-fullstack | ✅ Active | Next.js 16, Prisma 7 |
-| mac-web-dashboard | ✅ v1.1.0 | Next.js 14 |
-| kune-ya.com | 🟢 Live | React, TypeScript, Vercel |
-| ai-first-os | ✅ v1.0.0 | Arch Linux, Hermes Agent |
-| arch-web-dashboard | ✅ v1.0.0 | Next.js 14 |
+| niu-dash-fullstack | ⏸️ Stale | Next.js 16 |
+| niu-kanban-dash | ⏸️ Stale | React/Vite |
+| TEDEO-Kanban | 🟡 95% | Vite/React/Zustand |
+| AuditTI-AT | ✅ Live | GH Pages |
+| spatial-vision | 🟢 Active | Rust/WASM |
+
+### 🖥️ desktop/ — Native (4)
+| Repo | Status | Stack |
+|------|--------|-------|
+| Flame-ADE | ⏸️ Stale | Tauri 2/Rust |
+| didong-code | 🟢 Active | Electron |
+| joy-connect-for-mac | 🟢 Active | Swift/ADB |
+| x-downloader | ✅ Phase 3 | Tauri 2 |
+
+### 🤖 agents/ — AI & Automation (4)
+| Repo | Status | Notes |
+|------|--------|-------|
+| Niumination/profile | 🟢 Live | Ini! Animated terminal |
+| orchestrator | ⏸️ Stale | Python multi-agent |
+| ultra-automation | ⏸️ Stale | Puppeteer |
+| characters/ | 🟢 Active | 4 herdr agents |
 
 </details>
