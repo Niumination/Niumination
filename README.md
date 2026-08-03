@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [3 Agu 2026] Pushed 0 commit to [Niumination/spatial-vision](https://github.com/Niumination/spatial-vision) — 
-- [3 Agu 2026] Starred [dockur/macos](https://github.com/dockur/macos)
-- [3 Agu 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [3 Agu 2026] Pushed 0 commit to [Niumination/spatial-vision](https://github.com/Niumination/spatial-vision) — 
-- [3 Agu 2026] Pushed 0 commit to [Niumination/spatial-vision](https://github.com/Niumination/spatial-vision) — 
-- [2 Agu 2026] Pushed 0 commit to [Niumination/spatial-vision](https://github.com/Niumination/spatial-vision) — 
-- [2 Agu 2026] Pushed 0 commit to [Niumination/spatial-vision](https://github.com/Niumination/spatial-vision) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
