@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [12 Agu 2026] Pushed 0 commit to [Niumination/cc-acehtengah](https://github.com/Niumination/cc-acehtengah) — 
-- [12 Agu 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [12 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [12 Agu 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
-- [12 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [12 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [12 Agu 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+*Unable to load recent activity.*
 <!-- ACTIVITY_END -->
 
 ---
