@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
-- [17 Agu 2026] Pushed 0 commit to [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
