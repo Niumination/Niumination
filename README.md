@@ -83,7 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-Loading recent GitHub activity...
+- [25 Agu 2026] opened issue [#5](https://github.com/Niumination/niu-mission-control/issues/5) in [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control) — Epic: Retheme total 12 halaman ke Mission Core (APEX sebagai benang merah)
+- [25 Agu 2026] Commented on issue [#4](https://github.com/Niumination/niu-mission-control/pull/4) in [Niumination/niu-mission-control](https://github.com/Niumination/niu-mission-control)
+- [24 Agu 2026] Pushed 0 commit to [Niumination/hermes-agent](https://github.com/Niumination/hermes-agent) — 
+- [24 Agu 2026] Pushed 0 commit to [Niumination/hermes-agent](https://github.com/Niumination/hermes-agent) — 
+- [24 Agu 2026] Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [24 Agu 2026] Starred [mikcyber/zrouter](https://github.com/mikcyber/zrouter)
+- [24 Agu 2026] Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
 <!-- ACTIVITY_END -->
 
 ---
