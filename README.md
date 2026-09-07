@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [5 Sep 2026] Pushed 0 commit to [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai) — 
-- [3 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [3 Sep 2026] Pushed 0 commit to [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai) — 
-- [3 Sep 2026] Pushed 0 commit to [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai) — 
-- [3 Sep 2026] Pushed 0 commit to [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai) — 
-- [3 Sep 2026] Created branch `feat/perf-rsc-cache` in [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai)
-- [5 Sep 2026] Created branch `main` in [Niumination/niu-journal](https://github.com/Niumination/niu-journal)
+*Unable to load recent activity.*
 <!-- ACTIVITY_END -->
 
 ---
