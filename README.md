@@ -31,7 +31,7 @@
 
 Saya **Afrizal Munthe (Niumination)** — Pranata Komputer di Diskominfo Aceh Tengah. Fokus pada transformasi digital pemerintahan melalui **Sistem Pemerintahan Berbasis Elektronik (SPBE)** dan pengembangan ekosistem **AI Agent** untuk layanan publik.
 
-Ekosistem saya mencakup **40+ repositori aktif** — dari portal desa SSG hingga AI multi-agent orchestrator — semuanya dibangun dengan standar high-agency engineering: surgical patch, zero redundancy, dan measurable outcome.
+Ekosistem saya mencakup **40 repositori** — dari portal desa SSG hingga AI multi-agent orchestrator — semuanya dibangun dengan standar high-agency engineering: surgical patch, zero redundancy, dan measurable outcome.
 
 ---
 
@@ -40,7 +40,7 @@ Ekosistem saya mencakup **40+ repositori aktif** — dari portal desa SSG hingga
 | Area | Deskripsi |
 |------|-----------|
 | **SPBE & GovTech** | Sistem Pemerintahan Berbasis Elektronik — portal OPD, KMS, LKH, interoperabilitas layanan publik Aceh Tengah |
-| **AI Agent Ecosystem** | Multi-agent orchestration, Hermes Agent, JCode bridge, dan autonomous workflow untuk otomatisasi tugas pemerintahan |
+| **AI Agent Ecosystem** | Multi-agent orchestration, Hermes Agent, dan autonomous workflow untuk otomatisasi tugas pemerintahan |
 | **Fullstack Web** | Next.js, React, Three.js, Prisma, TanStack Query — dashboard real-time, portal statis, dan aplikasi hybrid |
 | **Desktop & Mobile** | Tauri 2 (Rust/React), PyQt5 (ADB tooling), Kotlin/Jetpack Compose (AI File Organizer) — aplikasi native yang interoperable |
 
@@ -50,8 +50,8 @@ Ekosistem saya mencakup **40+ repositori aktif** — dari portal desa SSG hingga
 
 | Proyek | Fokus | Stack | Deploy |
 |--------|-------|-------|--------|
-| [**PemdiAcehTengah**](https://github.com/Niumination/PemdiAcehTengah) | Portal Pemerintah Digital — 52 OPD, 70 pages SSG | Next.js 14, React 18, pure CSS | 🟢 [Vercel](https://pemdi-aceh-tengah.vercel.app) |
-| [**niu-dash**](https://github.com/Niumination/niu-dash) | Ecosystem dashboard — 76+ proyek tracked, v2.16.8 | Vanilla JS, HTML/CSS | 🟢 [GH Pages](https://niumination.github.io/niu-dash) |
+| [**PemdiAcehTengah**](https://github.com/Niumination/PemdiAcehTengah) | Kokpit Pemdi & Dasbor Transparansi — reposisi Opsi B, 250 bukti dukung | Next.js 14, React 18, pure CSS | ⏸️ [Vercel](https://pemdi-aceh-tengah.vercel.app) |
+| [**niu-dash**](https://github.com/Niumination/niu-dash) | Ecosystem dashboard — 32 proyek tracked, v2.16.8 | Vanilla JS, HTML/CSS | 🟢 [GH Pages](https://niumination.github.io/niu-dash) |
 | [**Flame-ADE**](https://github.com/Niumination/Flame-ADE) | AI-native terminal emulator — Tauri 2 + Rust + React 19 | Tauri 2, Rust, React 19 | 🟢 GitHub |
 | [**Niu-LKH**](https://github.com/Niumination/Niu-LKH) | Laporan Keuangan Hijau v3.1.1 — 100% Done 🎉 | React 19, Vite 6, Tailwind v4, Supabase | 🟢 [GH Pages](https://niumination.github.io/Niu-LKH) |
 | [**didong-code**](https://github.com/Niumination/didong-code) | Agentic Dev Environment — Electron + React + TypeScript | Electron, React 18, TypeScript | 🟢 GitHub |
@@ -83,7 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-*Unable to load recent activity.*
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
@@ -101,13 +101,14 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 </details>
 
 <details>
-<summary><b>📁 Ekosistem Lengkap (40+ repositori)</b></summary>
+<summary><b>📁 Ekosistem Lengkap (40 repositori)</b></summary>
 <br>
 
 ### 🏛️ Pemerintahan & SPBE
 | Repo | Status | Deploy |
 |------|--------|--------|
-| PemdiAcehTengah | 🟢 Active | [Vercel](https://pemdi-aceh-tengah.vercel.app) |
+| PemdiAcehTengah | ⏸️ Reposisi Opsi B | [Vercel](https://pemdi-aceh-tengah.vercel.app) |
+| sapa-ai | ⏸️ Selesai — menunggu client | [Vercel](https://sapa-smart-ai.vercel.app) |
 | cc-acehtengah | 🔜 Fase 1 | Local |
 | Niu-LKH | ✅ 100% | [GH Pages](https://niumination.github.io/Niu-LKH) |
 | AuditTI-AT | ✅ Live | [GH Pages](https://niumination.github.io/AuditTI-AT) |
@@ -117,9 +118,12 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 | Repo | Status | Stack |
 |------|--------|-------|
 | Flame-ADE | ✅ v1.3.0 | Tauri 2, Rust, React |
-| Niu-Flow | 🟢 Active | Python, JCode bridge |
+| Niu-Flow | 🟢 Active | Python, multi-agent |
 | orchestrator | ✅ Pushed | Python multi-agent |
 | didong-code | 🆕 New | Electron, React 18 |
+| niu-mission-control | 🟢 Active | FastAPI, WebSocket |
+| uacc | 🟢 Active | MCP server |
+| niumination-restore | 🟢 Active | DR: AES-256, bash 3.2 |
 
 ### 🌐 Web Apps & Tools
 | Repo | Status | Stack |

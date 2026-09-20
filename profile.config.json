@@ -9,7 +9,7 @@
     "status": "Building SPBE & AI Agent Ecosystem",
     "about": [
       "Saya Afrizal Munthe (Niumination) — Pranata Komputer di Diskominfo Aceh Tengah. Fokus pada transformasi digital pemerintahan melalui Sistem Pemerintahan Berbasis Elektronik (SPBE) dan pengembangan ekosistem AI Agent untuk layanan publik.",
-      "Ekosistem saya mencakup 40+ repositori aktif — maturity-based pipeline: sandbox → labs → services/sites/desktop/agents → apps → archive. Lihat dashboard interaktif: niumination.github.io/ecosystem-config"
+      "Ekosistem saya mencakup 40 repositori — maturity-based pipeline: sandbox → labs → services/sites/desktop/agents → apps → archive. Lihat dashboard interaktif: niumination.github.io/ecosystem-config"
     ]
   },
   "focus": [
@@ -19,7 +19,7 @@
     },
     {
       "name": "AI Agent Ecosystem",
-      "description": "Multi-agent orchestration, Hermes Agent, JCode bridge, dan autonomous workflow untuk otomatisasi tugas pemerintahan"
+      "description": "Multi-agent orchestration, Hermes Agent, dan autonomous workflow untuk otomatisasi tugas pemerintahan"
     },
     {
       "name": "Fullstack Web",
@@ -35,8 +35,8 @@
       "name": "PemdiAcehTengah",
       "url": "https://github.com/Niumination/PemdiAcehTengah",
       "homepage": "https://pemdi-aceh-tengah.vercel.app",
-      "focus": "Portal Pemerintah Digital",
-      "summary": "Portal Pemerintah Digital Kabupaten Aceh Tengah — 52 OPD, 70 pages SSG, 6 Quick Win SPBE. Next.js 14 + React 18 + pure CSS.",
+      "focus": "Kokpit Pemdi & Dasbor Transparansi",
+      "summary": "Reposisi Opsi B (20 Sep 2026): Kokpit Pemdi internal (kelola 250 butir bukti dukung) + dasbor transparansi publik + komponen terintegrasi ke Alpukat Gayo. Next.js 14 + React 18 + pure CSS.",
       "heroLabel": "Flagship GovTech"
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://github.com/Niumination/niu-dash",
       "homepage": "https://niumination.github.io/niu-dash",
       "focus": "Ecosystem Dashboard",
-      "summary": "Dark web glitch dashboard — 76+ proyek tracked. Niumination project inventory & DEV TRACKER. Vanilla JS, v2.16.8.",
+      "summary": "Dark web glitch dashboard — 32 proyek tracked (ekosistem 43 git repos). Niumination project inventory & DEV TRACKER. Vanilla JS, v2.16.8.",
       "heroLabel": "Ecosystem Hub"
     },
     {
