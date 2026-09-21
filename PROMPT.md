@@ -31,7 +31,7 @@ Buat GitHub Profile README profesional untuk **Afrizal Munthe (Niumination)** �
 Prioritas proyek yang mature dan deployed:
 1. PemdiAcehTengah — Portal Pemda 52 OPD ✅ Vercel
 2. niu-dash — Ecosystem dashboard ✅ GH Pages
-3. cc-acehtengah — Command Center AI 🔜
+3. sapa-ai — SAPA Smart AI ✅ Vercel
 4. Niu-LKH — Laporan Keuangan Hijau ✅ GH Pages
 5. x-downloader — Tauri 2 desktop ✅ GitHub
 6. TEDEO — Delivery Service ✅ Vercel

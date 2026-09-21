@@ -143,7 +143,7 @@ Loading recent GitHub activity...
 | Repo | Status | Deploy |
 |------|--------|--------|
 | PemdiAcehTengah | 🟢 Active | [Vercel](https://pemdi-aceh-tengah.vercel.app) |
-| cc-acehtengah | 🔜 Fase 1 | Local |
+| cc-acehtengah | 💤 Hiatus — pindah ke sapa-ai | Archived |
 | Niu-LKH | ✅ 100% | [GH Pages](https://niumination.github.io/Niu-LKH) |
 | AuditTI-AT | ✅ Live | [GH Pages](https://niumination.github.io/AuditTI-AT) |
 | kms-spbe | ✅ Live | Vercel |
