@@ -83,13 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
+- [24 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+- [24 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+- [23 Sep 2026] Created branch `dev` in [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai)
 - [23 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [23 Sep 2026] Pushed 0 commit to [Niumination/niu-dash](https://github.com/Niumination/niu-dash) — 
 - [23 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [23 Sep 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
-- [23 Sep 2026] Pushed 0 commit to [Niumination/PemdiAcehTengah](https://github.com/Niumination/PemdiAcehTengah) — 
 - [23 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [23 Sep 2026] Pushed 0 commit to [Niumination/Niu-OSS-Dashboard](https://github.com/Niumination/Niu-OSS-Dashboard) — 
+- [23 Sep 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
 <!-- ACTIVITY_END -->
 
 ---
