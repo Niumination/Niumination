@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [5 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [5 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [5 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [5 Okt 2026] Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-- [5 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [5 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [3 Okt 2026] Pushed 0 commit to [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
