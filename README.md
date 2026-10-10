@@ -83,13 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [9 Okt 2026] closed PR [#3](undefined) in [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
-- [9 Okt 2026] closed PR [#2](undefined) in [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
-- [9 Okt 2026] closed PR [#1](undefined) in [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
-- [9 Okt 2026] Pushed 0 commit to [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
-- [9 Okt 2026] closed PR [#4](undefined) in [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
+- [10 Okt 2026] Pushed 0 commit to [Niumination/mirai](https://github.com/Niumination/mirai) — 
 - [9 Okt 2026] Pushed 0 commit to [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
 - [9 Okt 2026] Pushed 0 commit to [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
+- [10 Okt 2026] Starred [morluto/rea](https://github.com/morluto/rea)
+- [10 Okt 2026] Starred [N0zoM1z0/dx-ball](https://github.com/N0zoM1z0/dx-ball)
+- [10 Okt 2026] Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [10 Okt 2026] Starred [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D)
 <!-- ACTIVITY_END -->
 
 ---
