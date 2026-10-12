@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [12 Okt 2026] Pushed 0 commit to [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate) — 
-- [12 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [12 Okt 2026] Pushed 0 commit to [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
-- [12 Okt 2026] Pushed 0 commit to [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate) — 
-- [12 Okt 2026] Pushed 0 commit to [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
-- [12 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [10 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
