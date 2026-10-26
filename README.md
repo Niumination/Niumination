@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [25 Okt 2026] Pushed 0 commit to [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [25 Okt 2026] Created branch `work/ci-lint-gate` in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust)
-- [25 Okt 2026] Created branch `work/self-test-symlink-classification` in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust)
-- [26 Okt 2026] Created branch `work/bundle-ax-attribution` in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust)
-- [26 Okt 2026] Pushed 0 commit to [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [26 Okt 2026] Activity in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust)
-- [26 Okt 2026] merged PR [#20](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
