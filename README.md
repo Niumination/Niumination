@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [2 Nov 2026] merged PR [#46](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [2 Nov 2026] opened PR [#46](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [30 Okt 2026] Pushed 0 commit to [Niumination/kune-ya.com](https://github.com/Niumination/kune-ya.com) — 
-- [30 Okt 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [30 Okt 2026] Created branch `main` in [Niumination/zb-humanoid](https://github.com/Niumination/zb-humanoid)
-- [30 Okt 2026] Pushed 0 commit to [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate) — 
-- [30 Okt 2026] Pushed 0 commit to [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
