@@ -83,13 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [2 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
-- [2 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
-- [4 Nov 2026] Pushed 0 commit to [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [4 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [4 Nov 2026] merged PR [#48](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [4 Nov 2026] opened PR [#48](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [2 Nov 2026] Pushed 0 commit to [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate) — 
+- [5 Nov 2026] Pushed 0 commit to [Niumination/AgenticTrade](https://github.com/Niumination/AgenticTrade) — 
+- [5 Nov 2026] Pushed 0 commit to [Niumination/pdf-inspector](https://github.com/Niumination/pdf-inspector) — 
+- [4 Nov 2026] Pushed 0 commit to [Niumination/AgenticTrade](https://github.com/Niumination/AgenticTrade) — 
+- [5 Nov 2026] Pushed 0 commit to [Niumination/AgenticTrade](https://github.com/Niumination/AgenticTrade) — 
+- [5 Nov 2026] Pushed 0 commit to [Niumination/AgenticTrade](https://github.com/Niumination/AgenticTrade) — 
+- [5 Nov 2026] Pushed 0 commit to [Niumination/AgenticTrade](https://github.com/Niumination/AgenticTrade) — 
+- [5 Nov 2026] Pushed 0 commit to [Niumination/AgenticTrade](https://github.com/Niumination/AgenticTrade) — 
 <!-- ACTIVITY_END -->
 
 ---
