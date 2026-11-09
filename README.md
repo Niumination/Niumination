@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [9 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
-- [9 Nov 2026] merged PR [#56](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [9 Nov 2026] opened PR [#56](undefined) in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [9 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
-- [7 Nov 2026] Pushed 0 commit to [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust) — 
-- [7 Nov 2026] Pushed 0 commit to [Niumination/mirai](https://github.com/Niumination/mirai) — 
-- [7 Nov 2026] Pushed 0 commit to [Niumination/sapa-ai](https://github.com/Niumination/sapa-ai) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
