@@ -83,7 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-Loading recent GitHub activity...
+- [6 Nov 2026] closed PR [#15](undefined) in [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
+- [6 Nov 2026] closed PR [#14](undefined) in [Niumination/hermes-office](https://github.com/Niumination/hermes-office) — 
+- [10 Nov 2026] Commented on issue [#4](https://github.com/Niumination/niu-gayo-agroclimate/pull/4) in [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate)
+- [10 Nov 2026] Starred [AIshihzong/awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything)
+- [9 Nov 2026] closed PR [#4](undefined) in [Niumination/niu-gayo-agroclimate](https://github.com/Niumination/niu-gayo-agroclimate) — 
+- [9 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+- [9 Nov 2026] Created branch `feat/tcc-stale-grant-detection` in [Niumination/hypr-rust](https://github.com/Niumination/hypr-rust)
 <!-- ACTIVITY_END -->
 
 ---
