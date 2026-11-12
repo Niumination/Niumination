@@ -83,13 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [10 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [9 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [10 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
-- [11 Nov 2026] Starred [taracodlabs/aiden](https://github.com/taracodlabs/aiden)
-- [10 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [9 Nov 2026] Pushed 0 commit to [Niumination/mirai](https://github.com/Niumination/mirai) — 
-- [10 Nov 2026] Pushed 0 commit to [Niumination/Niu-OSS-Dashboard](https://github.com/Niumination/Niu-OSS-Dashboard) — 
+- [12 Nov 2026] merged PR [#1](undefined) in [Niumination/hermes-agent](https://github.com/Niumination/hermes-agent) — 
+- [12 Nov 2026] opened PR [#1](undefined) in [Niumination/hermes-agent](https://github.com/Niumination/hermes-agent) — 
+- [11 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+- [11 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
+- [11 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
+- [11 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
+- [11 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
 <!-- ACTIVITY_END -->
 
 ---
