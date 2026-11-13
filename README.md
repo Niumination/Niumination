@@ -83,12 +83,12 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [12 Nov 2026] merged PR [#1](undefined) in [Niumination/hermes-agent](https://github.com/Niumination/hermes-agent) — 
-- [12 Nov 2026] opened PR [#1](undefined) in [Niumination/hermes-agent](https://github.com/Niumination/hermes-agent) — 
-- [11 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [11 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
+- [13 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
 - [11 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
 - [11 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
+- [12 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+- [13 Nov 2026] Pushed 0 commit to [Niumination/zbmaus-vela](https://github.com/Niumination/zbmaus-vela) — 
+- [13 Nov 2026] Pushed 0 commit to [Niumination/zbmaus-vela](https://github.com/Niumination/zbmaus-vela) — 
 - [11 Nov 2026] Pushed 0 commit to [Niumination/Niu-Humanoid](https://github.com/Niumination/Niu-Humanoid) — 
 <!-- ACTIVITY_END -->
 
