@@ -83,13 +83,13 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
+- [20 Nov 2026] Pushed 0 commit to [Niumination/apex-humanoid-rebuild](https://github.com/Niumination/apex-humanoid-rebuild) — 
+- [20 Nov 2026] Starred [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)
+- [18 Nov 2026] Pushed 0 commit to [Niumination/zbmaus-vela-eco](https://github.com/Niumination/zbmaus-vela-eco) — 
+- [19 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
+- [18 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
+- [19 Nov 2026] Pushed 0 commit to [Niumination/zbmaus-vela-eco](https://github.com/Niumination/zbmaus-vela-eco) — 
 - [18 Nov 2026] Pushed 0 commit to [Niumination/dao-playables](https://github.com/Niumination/dao-playables) — 
-- [19 Nov 2026] Starred [superdesigndev/treg](https://github.com/superdesigndev/treg)
-- [18 Nov 2026] Pushed 0 commit to [Niumination/dao-playables](https://github.com/Niumination/dao-playables) — 
-- [18 Nov 2026] Pushed 0 commit to [Niumination/dao-playables](https://github.com/Niumination/dao-playables) — 
-- [18 Nov 2026] Pushed 0 commit to [Niumination/dao-playables](https://github.com/Niumination/dao-playables) — 
-- [19 Nov 2026] Starred [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile)
-- [19 Nov 2026] Pushed 0 commit to [Niumination/apex-humanoid-rebuild](https://github.com/Niumination/apex-humanoid-rebuild) — 
 <!-- ACTIVITY_END -->
 
 ---
