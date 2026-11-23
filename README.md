@@ -83,13 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-- [21 Nov 2026] Pushed 0 commit to [Niumination/apex-humanoid-rebuild](https://github.com/Niumination/apex-humanoid-rebuild) — 
-- [21 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
-- [21 Nov 2026] Pushed 0 commit to [Niumination/ecosystem-config](https://github.com/Niumination/ecosystem-config) — 
-- [23 Nov 2026] Pushed 0 commit to [Niumination/vfx-gratis](https://github.com/Niumination/vfx-gratis) — 
-- [23 Nov 2026] Pushed 0 commit to [Niumination/vfx-gratis](https://github.com/Niumination/vfx-gratis) — 
-- [21 Nov 2026] Pushed 0 commit to [Niumination/mira-humanoid](https://github.com/Niumination/mira-humanoid) — 
-- [22 Nov 2026] Pushed 0 commit to [Niumination/watch-fit-ai](https://github.com/Niumination/watch-fit-ai) — 
+Loading recent GitHub activity...
 <!-- ACTIVITY_END -->
 
 ---
