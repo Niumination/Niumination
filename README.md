@@ -83,7 +83,7 @@ North star saya adalah membangun **sistem otonom yang dapat dipercaya** untuk pe
 ## Recent Activity
 
 <!-- ACTIVITY_START -->
-Loading recent GitHub activity...
+*Unable to load recent activity.*
 <!-- ACTIVITY_END -->
 
 ---
