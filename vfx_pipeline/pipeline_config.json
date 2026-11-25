@@ -1,0 +1,9 @@
+{
+  "project": "vfx-action-donghua",
+  "created": "2026-11-25",
+  "platforms": {
+    "youtube": {"enabled": true, "privacy": "public"},
+    "instagram": {"enabled": false, "type": "reels"},
+    "tiktok": {"enabled": false}
+  }
+}
